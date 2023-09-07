@@ -1,0 +1,30 @@
+.product-card{
+    width: 342.23px;
+    height: 549.83px;
+    padding: 0px 15px;
+    box-shadow: 20%;
+
+}
+.artist-painting{
+    width: 100%;
+   
+    position: relative;
+}
+.paintig-artist{
+   
+    border-radius: 50%;
+  
+   
+}
+.art{
+    width: 312.23px;
+    height:312.23px;
+
+}
+.img{
+    width: 138.23px;
+    height:138.23px;
+    position: absolute;
+    bottom: 0;
+
+}
